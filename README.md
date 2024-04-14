@@ -6,7 +6,7 @@ To run the analysis locally, follow these steps:
     ```
 2. **Navigate to the project directory**:
     ```bash
-    cd your-repo-name
+    cd imdb-movie-tv-anaysis-rust
     ```
 3. **Compile and build the project using Cargo**:
     ```bash

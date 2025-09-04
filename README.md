@@ -1,4 +1,4 @@
-# IMDb Movie & TV Graph Analysis in Rust
+# IMDB Movie & TV Graph Analysis in Rust
 
 
 This project demonstrates an **end-to-end exploration** of movie relationships using **graph theory** in Rust. It highlights how **degree centrality** can reveal the most and least connected entities, provides insights about common metascores, and serves as a template for analyzing networks in other datasets.
